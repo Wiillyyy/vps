@@ -348,6 +348,18 @@ a:visited, a, a:active{
   	transform: scale(1.3) rotate(5deg);
 }
 
+.fa-discord{
+	filter: drop-shadow(4px 4px 4px #0b0b0e);
+}
+
+.fa-discord:hover{
+	color: #f12711;
+	text-shadow: 0 0 5px #f12711;
+    transition: all 0.2s ease;
+	-webkit-transform: scale(1.3) rotate(5deg);
+  	transform: scale(1.3) rotate(5deg);
+}
+
 #app {
   color: whitesmoke;
   filter: drop-shadow(4px 4px 4px #0b0b0e);
